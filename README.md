@@ -1,2 +1,2 @@
 # SharedMemory simple demo 
- a simple demo fo python and c#
+A small demo that uses shared memory methods to communicate between python and c#
